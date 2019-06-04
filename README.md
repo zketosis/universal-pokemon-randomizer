@@ -1,4 +1,4 @@
-Universal Pokemon Randomizer
+Universal Pokemon Randomizer - Working On it!
 
 By Dabomstew
 
